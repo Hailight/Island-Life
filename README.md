@@ -4,12 +4,12 @@ The very original game concept from PDStudios the very proffesional studio
 //Currently Working on:Creating A Unity project /w Github lel
 
 //Roles:
-//  Dawid:
+//Dawid:
 //    Scripts
 //    Some 3D Objects
 //    Gameplay
 //    Story
-//  Pascal:
+//Pascal:
 //    Mapping
 //    Texturing
 //    Music
