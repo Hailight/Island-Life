@@ -24,4 +24,5 @@ Important Messages and other Stuff
 
 //    Debugging
 
-~PDStudios
+© PDStudios - 2017
+All rights reserved.
